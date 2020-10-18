@@ -1,0 +1,95 @@
+* {
+  margin: 0em;
+  padding: 0em;
+  box-sizing: border-box;
+}
+
+.all {
+  width: 500px;
+  text-align: center;
+  margin-left: 450px;
+  margin-top: 40px;
+}
+
+.ping {
+  /* font-family: "Comfortaa", cursive; */
+  font-family: "Balsamiq Sans", cursive;
+  font-size: 28px;
+  font-weight: bolder;
+  line-height: 85px;
+}
+
+.soon {
+  font-size: 35px;
+  font-weight: bolder;
+  color: black;
+}
+
+.we {
+  font-size: 38px;
+  color: darkgray;
+}
+
+.sub {
+  font-family: "Open Sans", sans-serif;
+  line-height: 60px;
+  font-size: 15px;
+  font-weight: bold;
+}
+img {
+  width: 480px;
+  text-align: center;
+  margin-left: 450px;
+  margin-top: 80px;
+  height: 300px;
+}
+
+.down {
+  width: 500px;
+  text-align: center;
+}
+
+.copy {
+  width: 500px;
+  margin-left: 450px;
+  color: lightblue;
+  font-size: 10px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.em {
+  height: 40px;
+  width: 330px;
+  border-radius: 30px;
+  padding-left: 23px;
+  border-color: lightblue;
+  color: lightblue;
+}
+
+.bt {
+  height: 40px;
+  width: 130px;
+  border-radius: 30px;
+  background-color: #0ab2e8;
+  color: white;
+}
+
+/* a {
+  width: 500px;
+  margin-left: 450px;
+  color: lightblue;
+  font-size: 20px;
+  text-align: center;
+} */
+
+.icons {
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 650px;
+  justify-content: space-between;
+  padding-top: 20px;
+  color: blue;
+}
